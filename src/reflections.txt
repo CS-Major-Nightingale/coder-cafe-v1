@@ -1,0 +1,6 @@
+1. What are the limitations of this implementation from a cafe manager perspective? How might you improve it?
+
+
+
+
+2. What are the limitations of this implementation from an engineer's perspective? How might you improve it?
